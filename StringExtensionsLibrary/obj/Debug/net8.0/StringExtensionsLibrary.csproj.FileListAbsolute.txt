@@ -1,0 +1,12 @@
+C:\Users\High Tech\Desktop\StringExtensionsLibrary\StringExtensionsLibrary\bin\Debug\net8.0\StringExtensionsLibrary.deps.json
+C:\Users\High Tech\Desktop\StringExtensionsLibrary\StringExtensionsLibrary\bin\Debug\net8.0\StringExtensionsLibrary.dll
+C:\Users\High Tech\Desktop\StringExtensionsLibrary\StringExtensionsLibrary\bin\Debug\net8.0\StringExtensionsLibrary.pdb
+C:\Users\High Tech\Desktop\StringExtensionsLibrary\StringExtensionsLibrary\obj\Debug\net8.0\StringExtensionsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\High Tech\Desktop\StringExtensionsLibrary\StringExtensionsLibrary\obj\Debug\net8.0\StringExtensionsLibrary.AssemblyInfoInputs.cache
+C:\Users\High Tech\Desktop\StringExtensionsLibrary\StringExtensionsLibrary\obj\Debug\net8.0\StringExtensionsLibrary.AssemblyInfo.cs
+C:\Users\High Tech\Desktop\StringExtensionsLibrary\StringExtensionsLibrary\obj\Debug\net8.0\StringExtensionsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\High Tech\Desktop\StringExtensionsLibrary\StringExtensionsLibrary\obj\Debug\net8.0\StringExtensionsLibrary.sourcelink.json
+C:\Users\High Tech\Desktop\StringExtensionsLibrary\StringExtensionsLibrary\obj\Debug\net8.0\StringExtensionsLibrary.dll
+C:\Users\High Tech\Desktop\StringExtensionsLibrary\StringExtensionsLibrary\obj\Debug\net8.0\refint\StringExtensionsLibrary.dll
+C:\Users\High Tech\Desktop\StringExtensionsLibrary\StringExtensionsLibrary\obj\Debug\net8.0\StringExtensionsLibrary.pdb
+C:\Users\High Tech\Desktop\StringExtensionsLibrary\StringExtensionsLibrary\obj\Debug\net8.0\ref\StringExtensionsLibrary.dll
